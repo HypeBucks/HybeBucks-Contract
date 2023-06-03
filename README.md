@@ -1,4 +1,4 @@
-# HybeBucks-Contract
+# HybeBucks Smart Contract
 HypeBucks (HYPE) aims to create a unique and enjoyable investment experience 
 Groundbreaking meme-inspired cryptocurrency. 
 
