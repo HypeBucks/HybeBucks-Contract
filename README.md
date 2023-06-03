@@ -16,9 +16,9 @@ Tokenomics: HypeBucks (HYPE)
 Total Supply: 1,000,000,000 HYPE
 Distribution:
 – Initial Token Sale: 50%
-–  Community Rewards: 20%
- – Development Fund: 15%
- – Team and Advisors: 10%
+– Community Rewards: 20%
+– Development Fund: 15%
+– Team and Advisors: 10%
 – Marketing and Partnerships: 5%
 
 By actively fostering the creation and sharing of HypeBucks-related memes, the ecosystem aims to generate organic growth and increase brand awareness.
