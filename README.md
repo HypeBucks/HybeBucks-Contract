@@ -50,26 +50,7 @@ The milestones include:
 
 NFT COLLECTION - unique digital assets (Coming Soon)
 
-HypeBucks Master
-HypeBucks NFT Collection
-
-HypeBucks Cozy
-HypeBucks NFT Collection
-
-HypeBucks Gangstar
-HypeBucks NFT Collection
-
-HypeBucks Gang
-HypeBucks NFT Collection
-
-HypeBucks Rich
-HypeBucks NFT Collection
-
-HypeBucks Business
-HypeBucks NFT Collection
-
-
-onclusion
+Conclusion
 HypeBucks presents a new and exciting opportunity for investors seeking exposure to the world of meme-inspired cryptocurrencies. By combining memes, community engagement, and innovative tokenomics, HypeBucks aims to become the next big player in the digital currency space. Join us on this thrilling journey as we revolutionize the way memes and cryptocurrencies intersect.
  
 Risks and Disclaimers
